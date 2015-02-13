@@ -1,7 +1,7 @@
 body {
 
 	
-	text-align: center;
+	text-align: left;
 	color: #088A68;
 	font-size: 28px;
 	font-family: sans-serif;
@@ -10,15 +10,11 @@ body {
     	background-repeat: no-repeat;
 }
 
-#header {
-
+h2 {
+    position: absolute;
+    left: 100px;
+    top: 150px;
 }
-
-#content {
-	margin-left: 20%;
-	margin-right: 20%;
-}
-
 
 .pic {
  	 color:white;
