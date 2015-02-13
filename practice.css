@@ -10,10 +10,11 @@ body {
     	background-repeat: no-repeat;
 }
 
-h2 {
+h1 {
     position: absolute;
     left: 100px;
     top: 150px;
+    color: black;
 }
 
 .pic {
