@@ -1,16 +1,18 @@
 body {
+	<style>
+	.pic {
+	 background color:white;
+	} 
+	</style>
+	
 	text-align: center;
-	color: #58FAF4;
+	color: #088A68;
 	font-size: 28px;
 	font-family: sans-serif;
 	background-image: url("IMG_2774.JPG");
 	background-size:   cover;
     	background-repeat: no-repeat;
     	
-    	<style>
-	.pic {
-	 background color:white;
-	} 
-	</style>
+    	
 
 }
