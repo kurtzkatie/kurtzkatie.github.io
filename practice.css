@@ -8,7 +8,14 @@ body {
 	background-image: url("IMG_2774.JPG");
 	background-size:   cover;
     	background-repeat: no-repeat;
+}
+    	
+    	<style>
+	.pic {
+	 background color:white;
+	} 
+	</style>
     	
     	
 
-}
+
