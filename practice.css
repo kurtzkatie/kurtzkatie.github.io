@@ -9,12 +9,29 @@ body {
 	background-size:   cover;
     	background-repeat: no-repeat;
 }
-    	
-    	<style>
-	.pic {
-	 background color:white;
-	} 
-	</style>
+
+#header {
+
+}
+
+#content {
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+p {
+	background-color: orange;
+	font-size: 8px;
+}
+
+.stress {
+	font-size: 96px;
+}
+
+.pic {
+ 	background color:white;
+ } 
+
     	
     	
 
