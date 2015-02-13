@@ -13,10 +13,14 @@ body {
 h1 {
     position: absolute;
     left: 100px;
-    top: 150px;
+    top: 50px;
     color: black;
 }
 
+h2 {
+	text-align: left;
+	color: black;
+}
 .pic {
  	 color:white;
 
