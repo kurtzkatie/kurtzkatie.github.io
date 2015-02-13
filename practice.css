@@ -9,6 +9,9 @@ body {
 	background-size:   cover;
     	background-repeat: no-repeat;
 }
+ul{
+	text-align: left;
+}
 
 h1 {
     text-align: left;
