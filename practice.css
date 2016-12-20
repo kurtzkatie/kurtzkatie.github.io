@@ -12,8 +12,8 @@ body {
 	font-size: 28px;
 	font-family: sans-serif;
 	background-color: #CEECF5;
-	background-size:   cover;
-    	background-repeat: no-repeat;
+	/*background-size:   cover;
+    	background-repeat: no-repeat;*/
 }
 ul{
 	text-align: left;
